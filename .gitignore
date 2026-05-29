@@ -1,3 +1,6 @@
+# Exclude install folder
+/phpbb/install
+
 # Excludes cache
 /phpBB/cache/*
 !/phpBB/cache/.htaccess
